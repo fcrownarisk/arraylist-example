@@ -31,7 +31,7 @@ void function matrix8(){
       [Math.exp(1)][Math.exp(2)][Math.exp(3)][Math.exp(4)] [Math.exp(5)][Math.exp(6)][Math.exp(7)][Math.exp(8)]
       [Math.expm1][Math.expm1][Math.expm1][Math.expm1] [Math.log1p][Math.log1p][Math.log1p][Math.log1p]
       [Math.log(10)][Math.log(100)][Math.log(1000)][Math.log(10000)][Math.log(10000)][Math.log(1000)][Math.log(100)][Math.log(10)]
-  [Math.acosh(15)][Math.acosh(30)][Math.acosh(45)][Math.acosh(60)][Math.acosh(60)][Math.acosh(45)][Math.acosh(30)][Math.acosh(15)]
+  [Math.acosh(15)][Math.acosh(30)][Math.acosh(45)][Math.acosh(60)][Math.asinh(60)][Math.asinh(45)][Math.asinh(30)][Math.asinh(15)]
   [Math.acos(15)][Math.acos(30)][Math.acos(45)][Math.acos(60)][Math.asin(60)][Math.asin(45)][Math.asin(30)][Math.asin(15)]
 }
 void function matrix9(){
